@@ -1,0 +1,16 @@
+{
+  "name": "VikingSwarm Studio v5",
+  "short_name": "VikingSwarm",
+  "description": "Strategic consulting intelligence, social simulation, and research response platform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f1319",
+  "theme_color": "#d97706",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
